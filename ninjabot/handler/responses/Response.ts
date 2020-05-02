@@ -1,5 +1,6 @@
 export class NinjaBotResponse {
     public statusCode: number;
-    public Body: string;
-    public Error: string;
+    public tweetCount: number;
+    public Body: any[];
+    public Error: Error;
 }
