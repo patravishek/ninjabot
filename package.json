@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
-    "serverless-offline": "^6.1.4",
+    "serverless-offline": "^12.0.4",
     "source-map-support": "^0.5.10",
     "@types/aws-lambda": "^8.10.17",
     "@types/node": "^10.12.18",
